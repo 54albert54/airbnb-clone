@@ -11,8 +11,8 @@
 
 
 
+https://54albert54.github.io/airbnb-clone/
 
 
-
-## [Visita la pagina](https://54albert54.github.io/blog/airbnb-clone "Heading link")
+## [Visita la pagina](https://54albert54.github.io/airbnb-clone "Heading link")
 ### [Visita el repositorio](https://github.com/54albert54/airbnb-clone "Heading link")
